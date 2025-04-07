@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557148050150",
+    "project_id": "cw6h-16575",
+    "storage_bucket": "cw6h-16575.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557148050150:android:2bb4ae238230e5cb22e127",
+        "android_client_info": {
+          "package_name": "com.Adnan.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6b9TN2iPD8miEWGfy-GjLnO8G0prHjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557148050150:android:c4c4d71c11ef73ce22e127",
+        "android_client_info": {
+          "package_name": "com.example.cw_6h"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6b9TN2iPD8miEWGfy-GjLnO8G0prHjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
