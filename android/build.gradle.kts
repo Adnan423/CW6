@@ -1,7 +1,17 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.1.20")
+    }
+}
+
 plugins {
-    // Required for Firebase
-    id("com.android.application") version "8.2.0" apply false
-    id("com.google.gms.google-services") version "4.4.2" apply false
+    id("com.android.application") version "8.7.0" apply false
+    id("com.google.gms.google-services") version "4.3.15" apply false
+    kotlin("android") version "2.1.20" apply false
 }
 
 allprojects {
